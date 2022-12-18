@@ -1,0 +1,30 @@
+.red-line {
+  width: 2px;
+  height: 500px;
+  background: #ec2232;
+  margin-left: 200px;
+  margin-right: 56px;
+}
+.main6-container {
+  display: flex;
+  margin-bottom: 150px;
+}
+.main6-part2-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  row-gap: 100px;
+  column-gap: 10px;
+}
+.main6-data-text {
+  float: left;
+  color: #f0e3d8;
+}
+.main6-image {
+  float: left;
+  margin-left: 25px;
+  margin-right: 34px;
+}
+.pad-main6-para {
+  margin-right: 40px;
+}

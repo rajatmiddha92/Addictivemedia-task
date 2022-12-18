@@ -1,0 +1,28 @@
+.main5-container {
+  margin-top: -350px;
+  margin-left: 300px;
+  margin-bottom: 110px;
+}
+.main5-font-white {
+  color: white;
+  text-shadow: 1px 0px 2px black;
+}
+.main5-plus {
+  opacity: 0.2;
+  margin-left: -40px;
+  margin-top: -100px;
+}
+.main5-text-img {
+  width: 45%;
+  background-color: white;
+}
+.pad-main5-text2 {
+  padding-top: 10px;
+  position: relative;
+  bottom: 44px;
+}
+.pad-main5-text3{
+    padding-top: 10px;
+    position: relative;
+    bottom: 79px;
+}

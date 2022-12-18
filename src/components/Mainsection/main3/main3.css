@@ -1,0 +1,15 @@
+.main3-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 89px;
+  margin-bottom: 200px;
+}
+.main3-line {
+  background: #c4c4c4;
+  width: 1px;
+  height: 154px;
+}
+.margin-main3{
+    margin-top: 8px;
+}

@@ -1,0 +1,21 @@
+.main-2 {
+  display: flex;
+  margin-bottom: 140px;
+}
+
+.padleft-main-2 {
+  margin-left: 192px;
+  margin-top: 160px;
+  width: 55%;
+}
+.margin-first {
+  margin-bottom: 23px;
+}
+.padright-main-2 {
+  width: 45%;
+  align-self: center
+}
+.para-main2{
+   margin-top: 350px;
+   padding-right: 150px;
+}

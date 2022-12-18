@@ -1,0 +1,19 @@
+.navbar {
+    margin: 10px 0;
+    padding: 0 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .nav-line-1 {
+    height: 2.7px;
+    width: 29.33px;
+  }
+  .nav-line-2 {
+    height: 3px;
+    width: 22.33px;
+    margin-top: 9px;
+  }
+  .underline {
+    text-decoration: underline;
+  }

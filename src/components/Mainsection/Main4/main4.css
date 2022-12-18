@@ -1,0 +1,19 @@
+.text-main4 {
+  float: left;
+  margin-left: 200px;
+}
+.wing-2 {
+  float: right;
+  width: 32%;
+}
+.main4-container {
+  background: #f9f9f9;
+}
+.margin-main4-text {
+  margin-top: 150px;
+  margin-bottom: 33px;
+}
+.wing-3{
+position: relative;
+bottom: 40px;
+}

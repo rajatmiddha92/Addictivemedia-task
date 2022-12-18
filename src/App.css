@@ -1,38 +1,72 @@
-.App {
-  text-align: center;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.bg-black {
+    background: black;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .text-black {
+    color: #222222;
   }
-  to {
-    transform: rotate(360deg);
+  .text-white {
+    color: white;
   }
-}
+  .text-red {
+    color: #ec2232;
+  }
+  .text-grey{
+    color: #9198A0;
+  }
+  .text-fam {
+    font-family: "ITC Avant Garde Gothic Std";
+  }
+  .fw1 {
+    font-weight: 700;
+  }
+  .fw2 {
+    font-weight: 500;
+  }
+  .fw3 {
+    font-weight: 600;
+  }
+  .fw4{
+      font-weight: 300;
+  }
+  .fw5{
+    font-weight: 900;
+  }
+  .fs1 {
+    font-style: normal;
+  }
+  .f-medium {
+    font-size: 16px;
+  }
+  .f-mediuml{
+    font-size: 18px;
+  }
+  .f-mediumxl{
+    font-size: 25px;
+  }
+  .f-vslarge{
+    font-size: 30px;
+  }
+  .f-small {
+    font-size: 13px;
+  }
+
+  .f-large {
+    font-size: 35px;
+  }
+  .f-sxlarge{
+    font-size: 3.75rem;
+  }
+  .f-xlarge{
+      font-size: 70px;
+  }
+  .f-xxlarge {
+    font-size: 90px;
+  }
+  .letter-spacing{
+    letter-spacing: -0.02em;
+  }
