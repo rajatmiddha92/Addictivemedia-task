@@ -36,6 +36,9 @@
   .fw5{
     font-weight: 900;
   }
+  .fw6{
+    font-weight: 100;
+  }
   .fs1 {
     font-style: normal;
   }
@@ -70,3 +73,4 @@
   .letter-spacing{
     letter-spacing: -0.02em;
   }
+  

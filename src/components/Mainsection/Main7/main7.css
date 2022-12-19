@@ -2,4 +2,25 @@
   background-image: url("../../images/main7-background.png");
   opacity: 0.8;
   height: 1050px;
+  padding-left:250px;
+  padding-top: 250px;
+}
+.main7-mar-y-quote{
+    margin-bottom: 33px;
+}
+.main7-mar-y-head{
+    margin-bottom: 19px;
+}
+.p-container{
+    display: flex;
+    gap: 150px;
+}
+.main7-para{
+    width: 50%; 
+}
+.main7-last-container{
+    display: flex;
+    justify-content: flex-start;
+    gap:60px;
+    align-items: center;
 }

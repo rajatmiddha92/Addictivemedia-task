@@ -10,7 +10,9 @@ import Cards from "./components/Mainsection/Card/cards";
 import Main5 from "./components/Mainsection/Main5/main5";
 import Main6 from "./components/Mainsection/Main6/main6";
 import Main7 from "./components/Mainsection/Main7/main7";
-
+import Main8 from "./components/Mainsection/Main8/main8";
+import Main9 from "./components/Mainsection/Main9/main9";
+import Footer from "./components/Footer/footer";
 
 function App() {
   return (
@@ -24,6 +26,9 @@ function App() {
       <Main5/>
       <Main6/>
       <Main7/>
+      <Main8/>
+      <Main9/>
+      <Footer/>
     </>
   );
 }

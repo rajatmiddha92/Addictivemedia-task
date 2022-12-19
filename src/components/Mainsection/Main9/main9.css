@@ -1,0 +1,77 @@
+.main9-cont {
+  display: flex;
+  
+}
+.main9-part-1 {
+  padding-left: 150px;
+  background-color: #0e3466;
+  flex: 1;
+}
+.main9-part-2 {
+  background-color: #eeeff0;
+  width: 50%;
+}
+.main9-head-marg {
+  margin-top: 170px;
+}
+.main9-line {
+  height: 5px;
+  background-color: white;
+  width: 196px;
+  margin-top: 32px;
+  margin-bottom: 38px;
+}
+.name-img {
+  background-image: url("../../images/main9-name.png");
+  background-position: 20px 15px;
+}
+.email-img {
+  background-image: url("../../images/main9-email.png");
+  background-position: 20px 18px;
+}
+.phone-img {
+  background-image: url("../../images/main9-phone.png");
+  background-position: 20px 18px;
+}
+.msg-img {
+  background-image: url("../../images/main9-msg.png");
+  background-position: 20px 18px;
+}
+.name-img:focus,
+.email-img:focus,
+.phone-img:focus,
+.msg-img:focus {
+  background-image: none;
+}
+.main9-inpsize-1 {
+  width: 400px;
+  height: 55px;
+  margin-bottom: 24px;
+  border: 0;
+  background-repeat: no-repeat;
+  text-indent: 20px;
+  padding-left: 35px;
+}
+.b-rad {
+  border-radius: 7.75258px;
+}
+.main-9-textarea {
+  padding-top: 20px;
+  height: 120px;
+}
+.main9-btn {
+  border: 0;
+  background: #ec2232;
+  border-radius: 40.2445px;
+  padding: 10px 40px;
+  margin-bottom: 176px;
+}
+.map {
+  position: relative;
+  filter: drop-shadow(0px 0px 60px rgba(0, 0, 0, 0.15));
+  width: 750px;
+  height: 750px;
+  right: 130px;
+  top: 120px;
+  /* height: 700px; */
+}

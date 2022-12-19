@@ -1,0 +1,24 @@
+.brand{
+    width: 10%;
+    height: 35px;
+    aspect-ratio: 3/2;
+    object-fit: contain;
+    mix-blend-mode: color-burn;
+    
+}
+.main8-head-marg{
+    margin-top: 170px;
+    margin-bottom: 88px;
+}
+.main8-cont{
+    text-align: center;
+    margin-bottom: 170px;
+}
+.main8-flex{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.main8-flex:last-child{
+    margin-top: 95px;
+}

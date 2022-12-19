@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.fb1d91bb.css",
+    "main.js": "./static/js/main.392d083c.js",
+    "static/js/787.98bb6e72.chunk.js": "./static/js/787.98bb6e72.chunk.js",
+    "static/media/main7-background.png": "./static/media/main7-background.f59fe989c297b08aa6d6.png",
+    "static/media/pexels-kateryna-babaieva-2760242 1.jpg": "./static/media/pexels-kateryna-babaieva-2760242 1.a873d0bab8e94063ee8e.jpg",
+    "static/media/pexels-frans-van-heerden-2881632 1.png": "./static/media/pexels-frans-van-heerden-2881632 1.2f53e0e685228eb16867.png",
+    "static/media/pexels-thisisengineering-3862632 1.png": "./static/media/pexels-thisisengineering-3862632 1.bccb36d1023fddc618ff.png",
+    "static/media/map.png": "./static/media/map.ce57c2383c35bec6a35c.png",
+    "static/media/pexels-werner-pfennig-6949931 1.png": "./static/media/pexels-werner-pfennig-6949931 1.b92dd5ad48945ab71e6c.png",
+    "static/media/pngwing 3.png": "./static/media/pngwing 3.fa06a711083d65cd112e.png",
+    "static/media/pexels-anamul-rezwan-1145434 1.png": "./static/media/pexels-anamul-rezwan-1145434 1.46157e60508803da4fc3.png",
+    "static/media/pngwing 2.png": "./static/media/pngwing 2.73cf50539cb9fac63901.png",
+    "static/media/Industry We Serve.png": "./static/media/Industry We Serve.b820e123af7bdf4634da.png",
+    "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "./index.html",
+    "main.fb1d91bb.css.map": "./static/css/main.fb1d91bb.css.map",
+    "main.392d083c.js.map": "./static/js/main.392d083c.js.map",
+    "787.98bb6e72.chunk.js.map": "./static/js/787.98bb6e72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb1d91bb.css",
+    "static/js/main.392d083c.js"
+  ]
+}
